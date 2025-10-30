@@ -4,59 +4,61 @@
 
 /* Additional custom fonts */
 @font-face {
-  font-family: 'Helvetica LT Pro';
+  font-family: "Helvetica LT Pro";
   font-weight: 400 700;
   font-style: normal;
-  src: local('Helvetica Neue'), local('Helvetica'), local('Arial');
+  src: local("Helvetica Neue"), local("Helvetica"), local("Arial");
 }
 
 @font-face {
-  font-family: 'Buffet Script';
+  font-family: "Buffet Script";
   font-weight: 400;
   font-style: normal;
-  src: local('Brush Script MT'), local('Lucida Handwriting'), local('Segoe Script');
+  src:
+    local("Brush Script MT"), local("Lucida Handwriting"), local("Segoe Script");
 }
 
 @font-face {
-  font-family: 'Rubik Beastly';
+  font-family: "Rubik Beastly";
   font-weight: 400;
   font-style: normal;
-  src: local('Impact'), local('Arial Black');
+  src: local("Impact"), local("Arial Black");
 }
 
 @font-face {
-  font-family: 'Pretendard';
+  font-family: "Pretendard";
   font-weight: 400;
   font-style: normal;
-  src: local('Apple SD Gothic Neo'), local('Malgun Gothic'), local('sans-serif');
+  src:
+    local("Apple SD Gothic Neo"), local("Malgun Gothic"), local("sans-serif");
 }
 
 @font-face {
-  font-family: 'NanumGothic';
+  font-family: "NanumGothic";
   font-weight: 400;
   font-style: normal;
-  src: local('Nanum Gothic'), local('Malgun Gothic'), local('sans-serif');
+  src: local("Nanum Gothic"), local("Malgun Gothic"), local("sans-serif");
 }
 
 @font-face {
-  font-family: 'Puntino';
+  font-family: "Puntino";
   font-weight: 400;
   font-style: normal;
-  src: local('Impact'), local('Arial Black');
+  src: local("Impact"), local("Arial Black");
 }
 
 @font-face {
-  font-family: 'Monofett';
+  font-family: "Monofett";
   font-weight: 400;
   font-style: normal;
-  src: local('Courier New'), local('Courier'), local('monospace');
+  src: local("Courier New"), local("Courier"), local("monospace");
 }
 
 @font-face {
-  font-family: 'JJGgwakchanGothicA';
+  font-family: "JJGgwakchanGothicA";
   font-weight: 700;
   font-style: normal;
-  src: local('Arial Black'), local('Impact'), local('sans-serif');
+  src: local("Arial Black"), local("Impact"), local("sans-serif");
 }
 
 @tailwind base;
